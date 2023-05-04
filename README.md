@@ -3,8 +3,8 @@
   <p>제 GitHub 프로필에 방문해주셔서 감사합니다! 🎉</p>
 </div>
 <p align="center">
-  <a href="https://github.com/username"><img alt="GitHub followers" src="https://img.shields.io/github/followers/username?label=Follow&style=social"></a>
-  <a href="https://github.com/username"><img alt="GitHub stars" src="https://img.shields.io/github/stars/username?label=Stars&style=social"></a>
+  <a href="https://github.com/leeheeweon"><img alt="GitHub followers" src="https://img.shields.io/github/followers/username?label=Follow&style=social"></a>
+  <a href="https://github.com/leeheeweon"><img alt="GitHub stars" src="https://img.shields.io/github/stars/username?label=Stars&style=social"></a>
 </p>
 <h2>👋 소개</h2>
 <p>안녕하세요! 저는 이희원입니다.</p> 
