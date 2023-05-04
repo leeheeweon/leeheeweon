@@ -56,5 +56,5 @@
 <h2>📈 GitHub 통계</h2>
 [GitHub 프로필의 통계 정보를 추가합니다.]
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=heeweonjeong&show_icons=true&theme=dracula)
+![Github stats](https://github-readme-stats.vercel.app/api?username=leeheeweon&show_icons=true&theme=dracula)
 
