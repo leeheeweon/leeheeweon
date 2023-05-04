@@ -33,9 +33,27 @@
 저는 이런 사람입니다.
 [본인이 어떤 사람인지, 어떤 경험과 역량을 가지고 있는지 소개합니다.]
 
-연락처
-이메일: [본인의 이메일 주소]
-블로그: [본인의 블로그 주소]
-LinkedIn: [본인의 LinkedIn 주소]
-기타
-[추가적인 정보나 참고할 만한 자료 등을 제공합니다.]
+📚 학습 기록
+[공부한 내용이나 수강한 강의 등 학습에 대한 내용을 추가합니다.]
+
+[카테고리]
+제목
+제목
+[카테고리]
+제목
+제목
+🤝 연락 방법
+[연락하고 싶은 방법과 정보를 추가합니다.]
+
+이메일: [이메일 주소]
+블로그: [블로그 링크]
+LinkedIn: [LinkedIn 프로필 링크]
+📈 GitHub 통계
+[GitHub 프로필의 통계 정보를 추가합니다.]
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=dracula" alt="GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=dracula" alt="Top languages" />
+</p>
