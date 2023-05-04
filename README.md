@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="Profile picture" width="150" />
   <h1>안녕하세요! 저는 개발자 본커즈 입니다.</h1>
   <p>제 GitHub 프로필에 방문해주셔서 감사합니다! 🎉</p>
 </div>
