@@ -54,5 +54,5 @@
 <p>블로그: https://blog.naver.com/ggoddii</p>
 
 <h2>📈 GitHub 통계</h2>
-<p>![Github stats](https://github-readme-stats.vercel.app/api?username=leeheeweon&show_icons=true&theme=dracula)</p>
-<p>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeheeweon&layout=compact&theme=dracula)</p>
+![Github stats](https://github-readme-stats.vercel.app/api?username=leeheeweon&show_icons=true&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeheeweon&layout=compact&theme=graywhite)
