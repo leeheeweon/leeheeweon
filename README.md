@@ -8,7 +8,10 @@
   <a href="https://github.com/username"><img alt="GitHub stars" src="https://img.shields.io/github/stars/username?label=Stars&style=social"></a>
 </p>
 <h2>👋 소개</h2>
-<p>안녕하세요! 저는 이희원입니다. 가온아이 2021년 3월부터 현재 재직중입니다. 제 관심 분야는 독서, 운동, 개발 입니다. 이 GitHub 프로필에서는 제가 수행한 프로젝트와 작성한 문서, 그리고 보유한 기술 스택을 소개하고 있습니다.</p>
+<p>안녕하세요! 저는 이희원입니다.</p> 
+<p>가온아이 2021년 3월부터 현재까지 재직중입니다.</p> 
+<p>제 관심 분야는 독서, 운동, 개발 입니다.</p> 
+<p>이 GitHub 프로필에서는 제가 수행한 프로젝트와 작성한 문서, 그리고 보유한 기술 스택을 소개하고 있습니다.</p>
 
 <h2>🚀 프로젝트</h2>
 [프로젝트 이름]
@@ -46,10 +49,9 @@
 제목
 제목
 <h2>🤝 연락 방법</h2>
-[연락하고 싶은 방법과 정보를 추가합니다.]
 
-이메일: ggoddii@naver.com
-블로그: https://blog.naver.com/ggoddii
+<p>이메일: ggoddii@naver.com</p>
+<p>블로그: https://blog.naver.com/ggoddii</p>
 
 <h2>📈 GitHub 통계</h2>
 [GitHub 프로필의 통계 정보를 추가합니다.]
