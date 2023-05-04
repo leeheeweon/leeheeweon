@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/username/profile-pic/main/profile-pic.png" alt="Profile picture" width="150" />
+  <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="Profile picture" width="150" />
   <h1>안녕하세요! 저는 이희원입니다.</h1>
   <p>제 GitHub 프로필에 방문해주셔서 감사합니다! 🎉</p>
 </div>
@@ -34,7 +34,7 @@
 저는 이런 사람입니다.
 [본인이 어떤 사람인지, 어떤 경험과 역량을 가지고 있는지 소개합니다.]
 
-📚 학습 기록
+<h2>📚 학습 기록</h2>
 [공부한 내용이나 수강한 강의 등 학습에 대한 내용을 추가합니다.]
 
 [카테고리]
@@ -43,13 +43,13 @@
 [카테고리]
 제목
 제목
-🤝 연락 방법
+<h2>🤝 연락 방법</h2>
 [연락하고 싶은 방법과 정보를 추가합니다.]
 
 이메일: ggoddii@naver.com
 블로그: https://blog.naver.com/ggoddii
 
-📈 GitHub 통계
+<h2>📈 GitHub 통계</h2>
 [GitHub 프로필의 통계 정보를 추가합니다.]
 
 <p align="center">
