@@ -24,11 +24,7 @@
   </tr>
   <tr>
     <th width="120">개발환경</th>
-    <td>Springboot 3.1.3</td>
-  </tr>
-  <tr>
-    <th width="120">언어</th>
-    <td>Java 17</td>
+    <td>Java 17, Springboot 3.1.3</td>
   </tr>
   <tr>
     <th width="120">사용기술</th>
@@ -55,9 +51,13 @@
     <th width="120">작업기간</th>
     <td>2021.11.08~2022.06.30</td>
   </tr>
+  <tr>
+    <th width="120">개발환경</th>
+    <td>Java8, 전자정부프레임워크</td>
+  </tr>
    <tr>
-    <th width="120">기술</th>
-    <td>Java, Spring framework</td>
+    <th width="120">사용기술</th>
+    <td>Spring batch, Mybatis, RestFull API</td>
   </tr>
   <tr>
   <th width="120">소개</th>
