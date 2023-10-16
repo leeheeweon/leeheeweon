@@ -56,8 +56,8 @@
 
 [인터넷 강의]
 <ul>
-  <li>1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술</li>
-  <li><a href="https://www.inflearn.com/certificate/668328-326674-4731673">2. 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술</a> </li>
+  <li>스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술</li>
+  <li><a href="https://www.inflearn.com/certificate/668328-326674-4731673">스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술</a> </li>
 </ul>
 
 
