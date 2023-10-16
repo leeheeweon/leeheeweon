@@ -73,6 +73,7 @@
   <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/88b90739-140b-4798-b26a-ca2928303f3a">모든 개발자를 위한 HTTP 웹 기본 지식</a></li>
   <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/26a73de6-c463-4d86-9a0a-db3c75b6825b">스프링 MVC 2편 - 백엔드 웹 개발 활용 기술</a></li>
   <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/3ae8908c-f5c8-4a37-97d3-875df88d1260">스프링 핵심 원리 - 고급편</a></li>
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/d9c1ecc1-e30c-4487-9898-f88f08f12288">스프링 핵심 원리 - 기본편</a></li>
 
 </ul>
 
