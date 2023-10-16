@@ -46,8 +46,8 @@
     <td>청약 및 빌링 조회 프로그램은 고객이 청약(구독, 계약 등)과 관련된 정보를 쉽게 확인하고 빌링(요금 청구) 정보를 관리할 수 있는 소프트웨어 도구입니다</td>
   </tr>
 </table>
-<p align="center">
-  <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/2797df93-4606-4ce0-891d-103fd6ad02cc" width="300">
+<p align="center" border="1 solid black" >
+  <img  src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/2797df93-4606-4ce0-891d-103fd6ad02cc" width="300">
   <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/065b94f5-6e5b-49c3-99e6-a7fb85d5e3dd" width="300">
   <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/5bf5037a-a637-4345-a8c1-5f6e1756ccb0" width="300">
 </p>
