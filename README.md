@@ -76,7 +76,7 @@
   <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/d9c1ecc1-e30c-4487-9898-f88f08f12288">스프링 핵심 원리 - 기본편</a></li>
   <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/71ed0725-8b08-43ca-9860-cb0b6167ea5e">더 자바, Java 8</a></li>
   <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/aeb6f3fc-414b-46ce-95e8-b97d67120d54">더 자바, 코드를 조작하는 다양한 방법</a></li>
-
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/df7bfbf0-4642-473a-b698-3116a7678be9">스프링 DB 1편 - 데이터 접근 핵심 원리</a></li>
 </ul>
 
 
