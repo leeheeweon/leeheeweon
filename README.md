@@ -25,7 +25,7 @@
 </table>
 
 <p align="center">
-  <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/c9eac6b8-18b2-49ac-b45f-79ec139c69d6" width="600">
+  <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/089ab670-f726-4e1f-87f1-6a4f3f47ec34" width="500">
  <a href="https://subscheck.notion.site/SubsCheck-fc47a10b84b8474086ed113dc128167b?pvs=4">SubsCheck 개발문서</a>
 </p>
 [프로젝트 이름]
