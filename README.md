@@ -13,35 +13,11 @@
 <p>이 GitHub 프로필에서는 제가 수행한 프로젝트와 작성한 문서, 그리고 보유한 기술 스택을 소개하고 있습니다.</p>
 
 <h2>🚀 프로젝트</h2>
-
-/*<table>
-  <tr>
-    <th>프로젝트명</th>
-    <td>TheBlogger </td>
-  </tr>
-  <tr>
-    <th>프로젝트 소개</th>
-    <td>블로그 사용자들을 위한 유용한 툴 개발</td>
-  </tr>
-</table>
 <table>
   <tr>
-    <th>프로젝트명</th>
-    <td>한국해양교통안전공단 </td>
-  </tr>
-  <tr>
-    <th>프로젝트 소개</th>
-    <td>한국해양교통안전공단 사이트 구축</td>
-  </tr>
-</table>
-<table>*/
-<table>
-  <tr>
-    <th>프로젝트명</th>
     <td>SubsCheck  <a href="https://subscheck.notion.site/SubsCheck-fc47a10b84b8474086ed113dc128167b?pvs=4">개발문서 바로가기</a></td>
   </tr>
   <tr>
-    <th>프로젝트 소개</th>
     <td>청약 및 빌링 조회 프로그램은 고객이 청약(구독, 계약 등)과 관련된 정보를 쉽게 확인하고 빌링(요금 청구) 정보를 관리할 수 있는 소프트웨어 도구입니다</td>
   </tr>
 </table>
