@@ -18,6 +18,22 @@
     <th width="120">프로젝트명</th>
     <td>SubsCheck  <a href="https://subscheck.notion.site/SubsCheck-fc47a10b84b8474086ed113dc128167b?pvs=4">개발문서 바로가기</a></td>
   </tr>
+   <tr>
+    <th width="120">작업기간</th>
+    <td>2023년 09월 18일 ~ 2023년 10월 20일</td>
+  </tr>
+  <tr>
+    <th width="120">개발환경</th>
+    <td>Springboot 3.1.3</td>
+  </tr>
+  <tr>
+    <th width="120">언어</th>
+    <td>Java 17</td>
+  </tr>
+  <tr>
+    <th width="120">사용기술</th>
+    <td>Java mail, JPA, Tymeleaf, Springboot valid</td>
+  </tr>
   <tr>
     <th width="120">소개</th>
     <td>청약 및 빌링 조회 프로그램은 고객이 청약(구독, 계약 등)과 관련된 정보를 쉽게 확인하고 빌링(요금 청구) 정보를 관리할 수 있는 소프트웨어 도구입니다</td>
