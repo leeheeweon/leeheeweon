@@ -69,16 +69,16 @@
 [인터넷 강의]
 <ul>
   <li>스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술</li>
-  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/70d79c7f-7be3-40c1-a532-95916facb26f" target="_blank">스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술</a></li>
-  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/88b90739-140b-4798-b26a-ca2928303f3a" target="_blank">모든 개발자를 위한 HTTP 웹 기본 지식</a></li>
-  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/26a73de6-c463-4d86-9a0a-db3c75b6825b" target="_blank">스프링 MVC 2편 - 백엔드 웹 개발 활용 기술</a></li>
-  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/3ae8908c-f5c8-4a37-97d3-875df88d1260" target="_blank">스프링 핵심 원리 - 고급편</a></li>
-  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/d9c1ecc1-e30c-4487-9898-f88f08f12288" target="_blank">스프링 핵심 원리 - 기본편</a></li>
-  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/71ed0725-8b08-43ca-9860-cb0b6167ea5e" target="_blank">더 자바, Java 8</a></li>
-  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/aeb6f3fc-414b-46ce-95e8-b97d67120d54" target="_blank">더 자바, 코드를 조작하는 다양한 방법</a></li>
-  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/df7bfbf0-4642-473a-b698-3116a7678be9" target="_blank">스프링 DB 1편 - 데이터 접근 핵심 원리</a></li>
-  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/962ebd6e-9067-490c-a203-08afd52a31df" target="_blank">자바 ORM 표준 JPA 프로그래밍 - 기본편</a></li>
-  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/77f95753-86b6-4554-8484-3f35e758223d" target="_blank">실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발</a></li>
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/70d79c7f-7be3-40c1-a532-95916facb26f">스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술</a></li>
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/88b90739-140b-4798-b26a-ca2928303f3a">모든 개발자를 위한 HTTP 웹 기본 지식</a></li>
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/26a73de6-c463-4d86-9a0a-db3c75b6825b">스프링 MVC 2편 - 백엔드 웹 개발 활용 기술</a></li>
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/3ae8908c-f5c8-4a37-97d3-875df88d1260">스프링 핵심 원리 - 고급편</a></li>
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/d9c1ecc1-e30c-4487-9898-f88f08f12288">스프링 핵심 원리 - 기본편</a></li>
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/71ed0725-8b08-43ca-9860-cb0b6167ea5e">더 자바, Java 8</a></li>
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/aeb6f3fc-414b-46ce-95e8-b97d67120d54">더 자바, 코드를 조작하는 다양한 방법</a></li>
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/df7bfbf0-4642-473a-b698-3116a7678be9">스프링 DB 1편 - 데이터 접근 핵심 원리</a></li>
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/962ebd6e-9067-490c-a203-08afd52a31df">자바 ORM 표준 JPA 프로그래밍 - 기본편</a></li>
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/77f95753-86b6-4554-8484-3f35e758223d">실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발</a></li>
 </ul>
 
 
