@@ -23,7 +23,7 @@
 </table>
 <p align="center">
   <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/2797df93-4606-4ce0-891d-103fd6ad02cc" width="300">
-  <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/089ab670-f726-4e1f-87f1-6a4f3f47ec34" width="300">
+  <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/065b94f5-6e5b-49c3-99e6-a7fb85d5e3dd" width="300">
 </p>
 
 
