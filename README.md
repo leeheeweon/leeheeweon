@@ -16,7 +16,7 @@
 <table>
   <tr>
     <th>프로젝트명</th>
-    <td>SubsCheck</td>
+    <td>SubsCheck  <a href="https://subscheck.notion.site/SubsCheck-fc47a10b84b8474086ed113dc128167b?pvs=4">SubsCheck 개발문서</a></td>
   </tr>
   <tr>
     <th>프로젝트 소개</th>
@@ -26,7 +26,7 @@
 
 <p align="center">
   <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/089ab670-f726-4e1f-87f1-6a4f3f47ec34" width="500">
- <a href="https://subscheck.notion.site/SubsCheck-fc47a10b84b8474086ed113dc128167b?pvs=4">SubsCheck 개발문서</a>
+
 </p>
 [프로젝트 이름]
 [프로젝트에 대한 설명을 적어주세요. 프로젝트의 목표, 사용한 기술 스택, 구현한 기능 등을 설명합니다.]
