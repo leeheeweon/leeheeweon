@@ -16,7 +16,7 @@
 <table>
   <tr>
     <th>프로젝트명</th>
-    <td>SubsCheck  <a href="https://subscheck.notion.site/SubsCheck-fc47a10b84b8474086ed113dc128167b?pvs=4">SubsCheck 개발문서</a></td>
+    <td>SubsCheck  <a href="https://subscheck.notion.site/SubsCheck-fc47a10b84b8474086ed113dc128167b?pvs=4">개발문서 바로가기</a></td>
   </tr>
   <tr>
     <th>프로젝트 소개</th>
