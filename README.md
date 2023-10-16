@@ -28,12 +28,12 @@
   <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/065b94f5-6e5b-49c3-99e6-a7fb85d5e3dd" width="300">
   <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/5bf5037a-a637-4345-a8c1-5f6e1756ccb0" width="300">
 </p>
-
 <br>
+
 <table>
   <tr>
     <th width="120">프로젝트명</th>
-    <td>한국해양교통안전공단</td>
+    <td>한국해양교통안전공단 <a href="https://github.com/leeheeweon/leeheeweon/files/12913582/_20220407.pdf">개발문서 바로가기</a></td>
   </tr>
   <tr>
     <th width="120">작업기간</th>
