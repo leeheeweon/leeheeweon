@@ -15,7 +15,7 @@
 <h2>🚀 프로젝트</h2>
 <table>
   <tr>
-    <th style="width:120px">프로젝트명</th>
+    <th style="width:120;">프로젝트명</th>
     <td>SubsCheck  <a href="https://subscheck.notion.site/SubsCheck-fc47a10b84b8474086ed113dc128167b?pvs=4">개발문서 바로가기</a></td>
   </tr>
   <tr>
