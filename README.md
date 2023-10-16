@@ -62,7 +62,10 @@
 [읽은 책]
 <ul>
   <li><a href="https://blog.naver.com/PostView.naver?blogId=ggoddii&amp;logNo=222910814293&amp;categoryNo=24&amp;parentCategoryNo=&amp;from=thumbnailList">커리어 스킬 - 존 손메즈 2022. 10. 26<a></li>
-  <li>제목</li>
+  <li><a href="https://blog.naver.com/ggoddii/222267232289">Clean Agile 클린애자일 - 로버트 C.마틴 2021. 3. 7<a></li>
+  <li><a href="https://blog.naver.com/ggoddii/222291082452">더 클린 코더 (The Clean Coder) - 로버트 C.마틴 2021. 3. 29<a></li>
+    <li><a href="https://blog.naver.com/ggoddii/222442035073">리눅스*그냥 재미로 - 리누스 토발즈 2021. 7. 23<a></li>
+      <li><a href="https://blog.naver.com/ggoddii/222506149429">객체지향 사실과 오해 - 조영호 2021. 9. 15<a></li>
 </ul>
 
 
