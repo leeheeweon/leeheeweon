@@ -32,7 +32,7 @@
 <br>
 <table>
   <tr>
-    <th style="width:120px">프로젝트명</th>
+    <th width="120">프로젝트명</th>
     <td>한국해양교통안전공단</td>
   </tr>
   <tr>
