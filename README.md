@@ -26,8 +26,8 @@
 </table>
 <table>
   <tr>
-    <th>한국해양교통안전공단</th>
-    <td>TheBlogger </td>
+    <th>프로젝트명</th>
+    <td>한국해양교통안전공단 </td>
   </tr>
   <tr>
     <th>프로젝트 소개</th>
