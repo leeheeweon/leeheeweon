@@ -61,7 +61,7 @@
 
 [읽은 책]
 <ul>
-  <li>제목</li>
+  <li><a href="https://blog.naver.com/PostView.naver?blogId=ggoddii&amp;logNo=222910814293&amp;categoryNo=24&amp;parentCategoryNo=&amp;from=thumbnailList">커리어 스킬 - 존 손메즈 2022. 10. 26<a></li>
   <li>제목</li>
 </ul>
 
