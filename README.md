@@ -21,7 +21,7 @@
 | 프로젝트 소개 | 청약 및 빌링 조회 프로그램은 고객이 청약(구독, 계약 등)과 관련된 정보를 쉽게 확인하고 빌링(요금 청구) 정보를 관리할 수 있는 소프트웨어 도구입니다 | <br>
 
 <p align="center">
-  <img src="https://subscheck.notion.site/SubsCheck-fc47a10b84b8474086ed113dc128167b?pvs=4" width="600" />
+ <a href="https://subscheck.notion.site/SubsCheck-fc47a10b84b8474086ed113dc128167b?pvs=4">SubsCheck 개발문서</a>
 </p>
 [프로젝트 이름]
 [프로젝트에 대한 설명을 적어주세요. 프로젝트의 목표, 사용한 기술 스택, 구현한 기능 등을 설명합니다.]
