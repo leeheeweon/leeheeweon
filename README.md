@@ -48,12 +48,19 @@
 [공부한 내용이나 수강한 강의 등 학습에 대한 내용을 추가합니다.]
 
 [읽은 책]
-제목
-제목
+<ul>
+  <li>제목</li>
+  <li>제목</li>
+</ul>
+
+
 [인터넷 강의]
-1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
-<a href="https://www.inflearn.com/certificate/668328-326674-4731673">2. 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술</a> 
-제목
+<ul>
+  <li>1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술</li>
+  <li><a href="https://www.inflearn.com/certificate/668328-326674-4731673">2. 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술</a> </li>
+</ul>
+
+
 <h2>🤝 연락 방법</h2>
 <p>이메일: ggoddii@naver.com</p>
 <p>블로그: https://blog.naver.com/ggoddii</p>
