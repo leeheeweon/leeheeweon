@@ -15,11 +15,11 @@
 <h2>🚀 프로젝트</h2>
 <table>
   <tr>
-    <th style="width:120;">프로젝트명</th>
+    <th width="130">프로젝트명</th>
     <td>SubsCheck  <a href="https://subscheck.notion.site/SubsCheck-fc47a10b84b8474086ed113dc128167b?pvs=4">개발문서 바로가기</a></td>
   </tr>
   <tr>
-    <th style="width:120px">소개</th>
+    <th width="130">소개</th>
     <td>청약 및 빌링 조회 프로그램은 고객이 청약(구독, 계약 등)과 관련된 정보를 쉽게 확인하고 빌링(요금 청구) 정보를 관리할 수 있는 소프트웨어 도구입니다</td>
   </tr>
 </table>
@@ -32,19 +32,19 @@
 <br>
 <table>
   <tr>
-    <th width="120">프로젝트명</th>
+    <th width="130">프로젝트명</th>
     <td>한국해양교통안전공단</td>
   </tr>
   <tr>
-    <th style="width:120px">작업기간</th>
+    <th width="130">작업기간</th>
     <td>2021.11.08~2022.06.30</td>
   </tr>
    <tr>
-    <th style="width:120px">기술</th>
+    <th width="130">기술</th>
     <td>Java, Spring framework</td>
   </tr>
   <tr>
-  <th style="width:120px">소개</th>
+  <th width="130">소개</th>
   <td>가온아이를 중심으로 여러 회사들과 협업하여 진행한 프로젝트로서 한국해양교통안전공단이 10년간 사용하였던 파워빌더 프로그램을 자바, 스프링을 사용하여 재구성 하였다.</td>
   </tr>
 </table>
