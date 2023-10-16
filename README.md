@@ -13,12 +13,32 @@
 <p>이 GitHub 프로필에서는 제가 수행한 프로젝트와 작성한 문서, 그리고 보유한 기술 스택을 소개하고 있습니다.</p>
 
 <h2>🚀 프로젝트</h2>
-| 프로젝트명 | SubsCheck | <br>
-| 개발기간 | 2023년 09월 18일 ~ 2023년 10월 20일 | <br>
-| 개발환경 | Springboot 3.1.3 | <br>
-| 언어 | Java 17 | <br>
-| 사용기술 | Java mail, JPA, Tymeleaf, Springboot valid | <br>
-| 프로젝트 소개 | 청약 및 빌링 조회 프로그램은 고객이 청약(구독, 계약 등)과 관련된 정보를 쉽게 확인하고 빌링(요금 청구) 정보를 관리할 수 있는 소프트웨어 도구입니다 | <br>
+<table>
+  <tr>
+    <th>프로젝트명</th>
+    <td>SubsCheck</td>
+  </tr>
+  <tr>
+    <th>개발기간</th>
+    <td>2023년 09월 18일 ~ 2023년 10월 20일</td>
+  </tr>
+  <tr>
+    <th>개발환경</th>
+    <td>Springboot 3.1.3</td>
+  </tr>
+  <tr>
+    <th>언어</th>
+    <td>Java 17</td>
+  </tr>
+  <tr>
+    <th>사용기술</th>
+    <td>Java mail, JPA, Tymeleaf, Springboot valid</td>
+  </tr>
+  <tr>
+    <th>프로젝트 소개</th>
+    <td>청약 및 빌링 조회 프로그램은 고객이 청약(구독, 계약 등)과 관련된 정보를 쉽게 확인하고 빌링(요금 청구) 정보를 관리할 수 있는 소프트웨어 도구입니다</td>
+  </tr>
+</table>
 
 <p align="center">
  <a href="https://subscheck.notion.site/SubsCheck-fc47a10b84b8474086ed113dc128167b?pvs=4">SubsCheck 개발문서</a>
