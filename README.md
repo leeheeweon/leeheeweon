@@ -74,6 +74,7 @@
   <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/26a73de6-c463-4d86-9a0a-db3c75b6825b">스프링 MVC 2편 - 백엔드 웹 개발 활용 기술</a></li>
   <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/3ae8908c-f5c8-4a37-97d3-875df88d1260">스프링 핵심 원리 - 고급편</a></li>
   <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/d9c1ecc1-e30c-4487-9898-f88f08f12288">스프링 핵심 원리 - 기본편</a></li>
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/71ed0725-8b08-43ca-9860-cb0b6167ea5e">더 자바, Java 8</a></li>
 
 </ul>
 
