@@ -79,6 +79,7 @@
   <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/df7bfbf0-4642-473a-b698-3116a7678be9">스프링 DB 1편 - 데이터 접근 핵심 원리</a></li>
   <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/962ebd6e-9067-490c-a203-08afd52a31df">자바 ORM 표준 JPA 프로그래밍 - 기본편</a></li>
   <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/77f95753-86b6-4554-8484-3f35e758223d">실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발</a></li>
+<li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/677e899e-3ca1-4c03-a3f8-0ae5b6d3066f">차근차근따라하는수익형웹사이트만들기</a></li>
 </ul>
 
 
