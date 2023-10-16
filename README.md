@@ -69,8 +69,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git" />
 
 <h2>📚 학습 기록</h2>
-[공부한 내용이나 수강한 강의 등 학습에 대한 내용을 추가합니다.]
-
 [읽은 책]
 <ul>
   <li><a href="https://blog.naver.com/ggoddii/222267232289" target="_blank">Clean Agile 클린애자일 - 로버트 C.마틴 2021. 3. 7<a></li>
@@ -81,7 +79,7 @@
   <li><a href="https://blog.naver.com/ggoddii/222910814293" target="_blank">커리어 스킬 - 존 손메즈 2022. 10. 26<a></li>
   <li><a href="https://blog.naver.com/ggoddii/223065486694" target="_blank">Generative_ChatGPT - 강정수 외 2023. 4. 5<a></li>
 </ul>
-
+<br>
 
 [인터넷 강의]
 <ul>
@@ -98,7 +96,6 @@
   <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/77f95753-86b6-4554-8484-3f35e758223d">실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발</a></li>
 <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/677e899e-3ca1-4c03-a3f8-0ae5b6d3066f">차근차근따라하는수익형웹사이트만들기</a></li>
 </ul>
-
 
 <h2>🤝 연락 방법</h2>
 <p>이메일: ggoddii@naver.com</p>
