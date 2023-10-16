@@ -58,7 +58,9 @@
 <ul>
   <li>스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술</li>
   <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/70d79c7f-7be3-40c1-a532-95916facb26f">스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술</a></li>
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/88b90739-140b-4798-b26a-ca2928303f3a">모든 개발자를 위한 HTTP 웹 기본 지식</a></li>
 </ul>
+
 
 <h2>🤝 연락 방법</h2>
 <p>이메일: ggoddii@naver.com</p>
