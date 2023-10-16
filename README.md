@@ -24,9 +24,8 @@
 <p align="center">
   <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/2797df93-4606-4ce0-891d-103fd6ad02cc" width="300">
   <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/065b94f5-6e5b-49c3-99e6-a7fb85d5e3dd" width="300">
+  <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/5bf5037a-a637-4345-a8c1-5f6e1756ccb0" width="300">
 </p>
-
-
 
 [프로젝트 이름]
 [프로젝트에 대한 설명을 적어주세요. 프로젝트의 목표, 사용한 기술 스택, 구현한 기능 등을 설명합니다.]
