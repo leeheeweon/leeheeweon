@@ -6,16 +6,15 @@
   <a href="https://github.com/leeheeweon"><img alt="GitHub followers" src="https://img.shields.io/github/followers/leeheeweon?label=Follow&style=social"></a>
   <a href="https://github.com/leeheeweon"><img alt="GitHub stars" src="https://img.shields.io/github/stars/leeheeweon?label=Stars&style=social"></a>
 </p>
-<details>
-<summary><h2>👋 소개</h2></summary>
+<h2>👋 소개</h2>
 <p>안녕하세요! 저는 이희원입니다.</p> 
 <p>가온아이 2021년 3월부터 현재까지 재직중입니다.</p> 
 <p>제 관심 분야는 독서, 운동, 개발 입니다.</p> 
 <p>이 GitHub 프로필에서는 제가 수행한 프로젝트와 작성한 문서, 그리고 보유한 기술 스택을 소개하고 있습니다.</p>
-</details>
 
-<details>
-<summary> <h2>🛠️ 기술 스택</h2></summary>
+
+
+<h2>🛠️ 기술 스택</h2>
 <div align="left">
 <p><strong>Backend</strong></p>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring boot&logoColor=white"> 
@@ -55,7 +54,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white" alt="Git" />
 </div>
-</details>
+
 
 <details>
 <summary><h2>🚀 프로젝트</h2></summary>
