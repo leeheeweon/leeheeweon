@@ -6,21 +6,23 @@
   <a href="https://github.com/leeheeweon"><img alt="GitHub followers" src="https://img.shields.io/github/followers/leeheeweon?label=Follow&style=social"></a>
   <a href="https://github.com/leeheeweon"><img alt="GitHub stars" src="https://img.shields.io/github/stars/leeheeweon?label=Stars&style=social"></a>
 </p>
-<h2>👋 소개</h2>
+<details>
+<summary><h2>👋 소개</h2></summary>
 <p>안녕하세요! 저는 이희원입니다.</p> 
 <p>가온아이 2021년 3월부터 현재까지 재직중입니다.</p> 
 <p>제 관심 분야는 독서, 운동, 개발 입니다.</p> 
 <p>이 GitHub 프로필에서는 제가 수행한 프로젝트와 작성한 문서, 그리고 보유한 기술 스택을 소개하고 있습니다.</p>
+</details>
 
-<h2>🛠️ 기술 스택</h2>
-  <!-- Backend -->
+<details>
+<summary> <h2>🛠️ 기술 스택</h2></summary>
 <div align="left">
 <p><strong>Backend</strong></p>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring boot&logoColor=white"> 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring" />
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java" />
 </div>
-
+  
 <!-- Database -->
 <div align="left">
 <p><strong>Database</strong></p>  
@@ -53,9 +55,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white" alt="Git" />
 </div>
+</details>
 
-
-<h2>🚀 프로젝트</h2>
+<details>
+<summary><h2>🚀 프로젝트</h2></summary>
 <!-- 한국해양교통안전공단 -->
 <table>
   <tr>
@@ -114,8 +117,10 @@
   <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/065b94f5-6e5b-49c3-99e6-a7fb85d5e3dd" width="300">
   <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/5bf5037a-a637-4345-a8c1-5f6e1756ccb0" width="300">
 </p>
+</details>
 
-<h2>📚 학습 기록</h2>
+<details>
+<summary><h2>📚 학습 기록</h2></summary>
 [읽은 책]
 <ul>
   <li><a href="https://blog.naver.com/ggoddii/222267232289" target="_blank">Clean Agile 클린애자일 - 로버트 C.마틴 2021. 3. 7<a></li>
@@ -143,13 +148,17 @@
   <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/77f95753-86b6-4554-8484-3f35e758223d">실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발</a></li>
 <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/677e899e-3ca1-4c03-a3f8-0ae5b6d3066f">차근차근따라하는수익형웹사이트만들기</a></li>
 </ul>
+</details>
 
-<h2>🤝 연락 방법</h2>
+<details>
+<summary><h2>🤝 연락 방법</h2></summary>
 <p>이메일: ggoddii@naver.com</p>
 <p>블로그: https://blog.naver.com/ggoddii</p>
+</details>
 
-<h2>📈 GitHub 통계</h2>
-
+<details>
+<summary><h2>📈 GitHub 통계</h2></summary>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=leeheeweon&show_icons=true&theme=graywhite)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeheeweon&layout=compact&theme=graywhite)
+</details>
+
