@@ -18,46 +18,34 @@
 
 
 <details>
-<summary><h2>🛠️ 기술 스택</h2></summary>
-<div align="left">
-<p><strong>Backend</strong></p>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring boot&logoColor=white"> 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java" />
-</div>
-  
-<!-- Database -->
-<div align="left">
-<p><strong>Database</strong></p>  
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> 
-<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">  
-</div>
+<summary><h2>📚 학습 기록</h2></summary>
+[읽은 책]
+<ul>
+  <li><a href="https://blog.naver.com/ggoddii/222267232289" target="_blank">Clean Agile 클린애자일 - 로버트 C.마틴 2021. 3. 7<a></li>
+  <li><a href="https://blog.naver.com/ggoddii/222291082452" target="_blank">더 클린 코더 (The Clean Coder) - 로버트 C.마틴 2021. 3. 29<a></li>
+  <li><a href="https://blog.naver.com/ggoddii/222442035073" target="_blank">리눅스*그냥 재미로 - 리누스 토발즈 2021. 7. 23<a></li>
+  <li><a href="https://blog.naver.com/ggoddii/222506149429" target="_blank">객체지향 사실과 오해 - 조영호 2021. 9. 15<a></li>
+  <li><a href="https://blog.naver.com/ggoddii/222528158167" target="_blank">소프트웨어 장인 - 산드로 만쿠소 2021. 10. 6<a></li>
+  <li><a href="https://blog.naver.com/ggoddii/222910814293" target="_blank">커리어 스킬 - 존 손메즈 2022. 10. 26<a></li>
+  <li><a href="https://blog.naver.com/ggoddii/223065486694" target="_blank">Generative_ChatGPT - 강정수 외 2023. 4. 5<a></li>
+</ul>
+<br>
 
-<!-- Server -->
-<div align="left">
-<p><strong>Server</strong></p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white">   
-</div>
-
-<!-- Frontend -->
-<div align="left">
-  <p><strong>Frontend</strong></p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-</div>
-
- <!-- Others -->
-<div align="left">
-  <p><strong>Others</strong></p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white" alt="Git" />
-</div>
+[인터넷 강의]
+<ul>
+  <li>스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술</li>
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/70d79c7f-7be3-40c1-a532-95916facb26f">스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술</a></li>
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/88b90739-140b-4798-b26a-ca2928303f3a">모든 개발자를 위한 HTTP 웹 기본 지식</a></li>
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/26a73de6-c463-4d86-9a0a-db3c75b6825b">스프링 MVC 2편 - 백엔드 웹 개발 활용 기술</a></li>
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/3ae8908c-f5c8-4a37-97d3-875df88d1260">스프링 핵심 원리 - 고급편</a></li>
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/d9c1ecc1-e30c-4487-9898-f88f08f12288">스프링 핵심 원리 - 기본편</a></li>
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/71ed0725-8b08-43ca-9860-cb0b6167ea5e">더 자바, Java 8</a></li>
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/aeb6f3fc-414b-46ce-95e8-b97d67120d54">더 자바, 코드를 조작하는 다양한 방법</a></li>
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/df7bfbf0-4642-473a-b698-3116a7678be9">스프링 DB 1편 - 데이터 접근 핵심 원리</a></li>
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/962ebd6e-9067-490c-a203-08afd52a31df">자바 ORM 표준 JPA 프로그래밍 - 기본편</a></li>
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/77f95753-86b6-4554-8484-3f35e758223d">실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발</a></li>
+<li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/677e899e-3ca1-4c03-a3f8-0ae5b6d3066f">차근차근따라하는수익형웹사이트만들기</a></li>
+</ul>
 </details>
 
 <details>
@@ -122,35 +110,49 @@
 </p>
 </details>
 
-<details>
-<summary><h2>📚 학습 기록</h2></summary>
-[읽은 책]
-<ul>
-  <li><a href="https://blog.naver.com/ggoddii/222267232289" target="_blank">Clean Agile 클린애자일 - 로버트 C.마틴 2021. 3. 7<a></li>
-  <li><a href="https://blog.naver.com/ggoddii/222291082452" target="_blank">더 클린 코더 (The Clean Coder) - 로버트 C.마틴 2021. 3. 29<a></li>
-  <li><a href="https://blog.naver.com/ggoddii/222442035073" target="_blank">리눅스*그냥 재미로 - 리누스 토발즈 2021. 7. 23<a></li>
-  <li><a href="https://blog.naver.com/ggoddii/222506149429" target="_blank">객체지향 사실과 오해 - 조영호 2021. 9. 15<a></li>
-  <li><a href="https://blog.naver.com/ggoddii/222528158167" target="_blank">소프트웨어 장인 - 산드로 만쿠소 2021. 10. 6<a></li>
-  <li><a href="https://blog.naver.com/ggoddii/222910814293" target="_blank">커리어 스킬 - 존 손메즈 2022. 10. 26<a></li>
-  <li><a href="https://blog.naver.com/ggoddii/223065486694" target="_blank">Generative_ChatGPT - 강정수 외 2023. 4. 5<a></li>
-</ul>
-<br>
 
-[인터넷 강의]
-<ul>
-  <li>스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술</li>
-  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/70d79c7f-7be3-40c1-a532-95916facb26f">스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술</a></li>
-  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/88b90739-140b-4798-b26a-ca2928303f3a">모든 개발자를 위한 HTTP 웹 기본 지식</a></li>
-  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/26a73de6-c463-4d86-9a0a-db3c75b6825b">스프링 MVC 2편 - 백엔드 웹 개발 활용 기술</a></li>
-  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/3ae8908c-f5c8-4a37-97d3-875df88d1260">스프링 핵심 원리 - 고급편</a></li>
-  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/d9c1ecc1-e30c-4487-9898-f88f08f12288">스프링 핵심 원리 - 기본편</a></li>
-  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/71ed0725-8b08-43ca-9860-cb0b6167ea5e">더 자바, Java 8</a></li>
-  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/aeb6f3fc-414b-46ce-95e8-b97d67120d54">더 자바, 코드를 조작하는 다양한 방법</a></li>
-  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/df7bfbf0-4642-473a-b698-3116a7678be9">스프링 DB 1편 - 데이터 접근 핵심 원리</a></li>
-  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/962ebd6e-9067-490c-a203-08afd52a31df">자바 ORM 표준 JPA 프로그래밍 - 기본편</a></li>
-  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/77f95753-86b6-4554-8484-3f35e758223d">실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발</a></li>
-<li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/677e899e-3ca1-4c03-a3f8-0ae5b6d3066f">차근차근따라하는수익형웹사이트만들기</a></li>
-</ul>
+
+<details>
+<summary><h2>🛠️ 기술 스택</h2></summary>
+<div align="left">
+<p><strong>Backend</strong></p>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring boot&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java" />
+</div>
+  
+<!-- Database -->
+<div align="left">
+<p><strong>Database</strong></p>  
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> 
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">  
+</div>
+
+<!-- Server -->
+<div align="left">
+<p><strong>Server</strong></p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white">   
+</div>
+
+<!-- Frontend -->
+<div align="left">
+  <p><strong>Frontend</strong></p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+</div>
+
+ <!-- Others -->
+<div align="left">
+  <p><strong>Others</strong></p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white" alt="Git" />
+</div>
 </details>
 
 
