@@ -56,35 +56,7 @@
 
 
 <h2>🚀 프로젝트</h2>
-<table>
-  <tr>
-    <th width="120">프로젝트명</th>
-    <td>SubsCheck  <a href="https://subscheck.notion.site/SubsCheck-fc47a10b84b8474086ed113dc128167b?pvs=4">개발문서 바로가기</a></td>
-  </tr>
-   <tr>
-    <th width="120">작업기간</th>
-    <td>2023년 09월 18일 ~ 2023년 10월 20일</td>
-  </tr>
-  <tr>
-    <th width="120">개발환경</th>
-    <td>Java 17, Springboot 3.1.3</td>
-  </tr>
-  <tr>
-    <th width="120">사용기술</th>
-    <td>Java mail, JPA, Tymeleaf, Springboot valid</td>
-  </tr>
-  <tr>
-    <th width="120">소개</th>
-    <td>청약 및 빌링 조회 프로그램은 고객이 청약(구독, 계약 등)과 관련된 정보를 쉽게 확인하고 빌링(요금 청구) 정보를 관리할 수 있는 소프트웨어 도구입니다</td>
-  </tr>
-</table>
-<p align="center" border="1 solid black" >
-  <img  src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/2797df93-4606-4ce0-891d-103fd6ad02cc" width="300">
-  <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/065b94f5-6e5b-49c3-99e6-a7fb85d5e3dd" width="300">
-  <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/5bf5037a-a637-4345-a8c1-5f6e1756ccb0" width="300">
-</p>
-<br>
-
+<!-- 한국해양교통안전공단 -->
 <table>
   <tr>
     <th width="120">프로젝트명</th>
@@ -111,6 +83,36 @@
   <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/bb4b6f77-62f9-4c5b-a21a-089c2c9e5f76" width="300">
   <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/71ae1931-c9de-434d-93b4-b03e19e3f964" width="300">
   <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/524058ec-97e3-42ad-9a9b-ac2d28046697" width="300">
+</p>
+<br>
+
+<!--청약 및 빌링 조회 프로그램-->
+<table>
+  <tr>
+    <th width="120">프로젝트명</th>
+    <td>SubsCheck  <a href="https://subscheck.notion.site/SubsCheck-fc47a10b84b8474086ed113dc128167b?pvs=4">개발문서 바로가기</a></td>
+  </tr>
+   <tr>
+    <th width="120">작업기간</th>
+    <td>2023년 09월 18일 ~ 2023년 10월 20일</td>
+  </tr>
+  <tr>
+    <th width="120">개발환경</th>
+    <td>Java 17, Springboot 3.1.3</td>
+  </tr>
+  <tr>
+    <th width="120">사용기술</th>
+    <td>Java mail, JPA, Tymeleaf, Springboot valid</td>
+  </tr>
+  <tr>
+    <th width="120">소개</th>
+    <td>청약 및 빌링 조회 프로그램은 고객이 청약(구독, 계약 등)과 관련된 정보를 쉽게 확인하고 빌링(요금 청구) 정보를 관리할 수 있는 소프트웨어 도구입니다</td>
+  </tr>
+</table>
+<p align="center" border="1 solid black" >
+  <img  src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/2797df93-4606-4ce0-891d-103fd6ad02cc" width="300">
+  <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/065b94f5-6e5b-49c3-99e6-a7fb85d5e3dd" width="300">
+  <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/5bf5037a-a637-4345-a8c1-5f6e1756ccb0" width="300">
 </p>
 
 <h2>📚 학습 기록</h2>
