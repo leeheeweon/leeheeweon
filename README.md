@@ -158,11 +158,8 @@
 
 <details>
 <summary><h2>📈 GitHub 통계</h2></summary>
-<div width="300">
 ![Github stats](https://github-readme-stats.vercel.app/api?username=leeheeweon&show_icons=true&theme=graywhite)
-</div>
-<div width="300">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeheeweon&layout=compact&theme=graywhite)
-</div>
 </details>
 
