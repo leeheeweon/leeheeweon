@@ -12,6 +12,9 @@
 <p>제 관심 분야는 독서, 운동, 개발 입니다.</p> 
 <p>이 GitHub 프로필에서는 제가 수행한 프로젝트와 작성한 문서, 그리고 보유한 기술 스택을 소개하고 있습니다.</p>
 
+<h2>🤝 연락 방법</h2>
+<p>이메일: ggoddii@naver.com</p>
+<p>블로그: https://blog.naver.com/ggoddii</p>
 
 
 <details>
@@ -150,9 +153,6 @@
 </ul>
 </details>
 
-<h2>🤝 연락 방법</h2>
-<p>이메일: ggoddii@naver.com</p>
-<p>블로그: https://blog.naver.com/ggoddii</p>
 
 
 
