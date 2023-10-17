@@ -14,7 +14,8 @@
 
 
 
-<h2>🛠️ 기술 스택</h2>
+<details>
+<summary<h2>🛠️ 기술 스택</h2></summary>
 <div align="left">
 <p><strong>Backend</strong></p>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring boot&logoColor=white"> 
@@ -54,7 +55,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white" alt="Git" />
 </div>
-
+</details>
 
 <details>
 <summary><h2>🚀 프로젝트</h2></summary>
@@ -149,18 +150,9 @@
 </ul>
 </details>
 
-<details>
-<summary><h2>🤝 연락 방법</h2></summary>
+<h2>🤝 연락 방법</h2>
 <p>이메일: ggoddii@naver.com</p>
 <p>블로그: https://blog.naver.com/ggoddii</p>
-</details>
 
-<details>
-<summary><h2>📈 GitHub 통계</h2></summary>
-  
-![Github stats](https://github-readme-stats.vercel.app/api?username=leeheeweon&show_icons=true&layout=compact&theme=graywhite)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeheeweon&layout=compact&theme=graywhite)
-
-</details>
 
