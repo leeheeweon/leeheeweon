@@ -50,7 +50,35 @@
 
 <details>
 <summary><h2>🚀 프로젝트</h2></summary>
-
+<!-- 더블로거 -->
+<table>
+  <tr>
+    <th width="120">프로젝트명</th>
+    <td>TheBlogger(더블로거) <a href="https://subscheck.notion.site/TheBlogger-4406c521afbc4b42923ff89003e14ca4?pvs=4">개발문서 바로가기</a></td>
+  </tr>
+  <tr>
+    <th width="120">작업기간</th>
+    <td>2023.01.11~2023.03.14</td>
+  </tr>
+  <tr>
+    <th width="120">개발환경</th>
+    <td>Java11, 스프링부트2.7.6</td>
+  </tr>
+   <tr>
+    <th width="120">사용기술</th>
+    <td>Spring batch, Mybatis, Tymeleaf, Springboot valid, Selenium, AWS</td>
+  </tr>
+  <tr>
+  <th width="120">소개</th>
+  <td>블로그 사용자들을 위한 키워드랩, 서이추봇, 굿포스팅, 긍정도 검사 등 유용한 툴을 제공하는 소프트웨어 입니다.</td>
+  </tr>
+</table>
+<p align="center">
+  <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/2fa55eef-fe84-4232-9090-ec2ecbdfac35" width="300">
+  <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/d42ce0f4-92a8-4500-bb7e-41174484d8c7" width="300">
+  <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/31449ca3-4e00-4803-b092-9ada2eb002c3" width="300">
+</p>
+<br>
   
 <!-- 한국해양교통안전공단 -->
 <table>
@@ -60,7 +88,7 @@
   </tr>
   <tr>
     <th width="120">작업기간</th>
-    <td>2021.11.08~2022.06.30</td>
+    <td>2021.11.08~2023.06.30</td>
   </tr>
   <tr>
     <th width="120">개발환경</th>
@@ -79,36 +107,6 @@
   <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/bb4b6f77-62f9-4c5b-a21a-089c2c9e5f76" width="300">
   <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/71ae1931-c9de-434d-93b4-b03e19e3f964" width="300">
   <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/524058ec-97e3-42ad-9a9b-ac2d28046697" width="300">
-</p>
-<br>
-
-<!-- 더블로거 -->
-<table>
-  <tr>
-    <th width="120">프로젝트명</th>
-    <td>TheBlogger(더블로거)</td>
-  </tr>
-  <tr>
-    <th width="120">작업기간</th>
-    <td>2023.01.11~2023.03.14</td>
-  </tr>
-  <tr>
-    <th width="120">개발환경</th>
-    <td>Java11, 스프링부트2.7.6</td>
-  </tr>
-   <tr>
-    <th width="120">사용기술</th>
-    <td>Spring batch, Mybatis, Tymeleaf, Springboot valid, Selenium</td>
-  </tr>
-  <tr>
-  <th width="120">소개</th>
-  <td>블로그 사용자들을 위한 키워드랩, 서이추봇, 굿포스팅, 긍정도 검사 등 유용한 툴을 제공하는 소프트웨어 입니다.</td>
-  </tr>
-</table>
-<p align="center">
-  <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/2fa55eef-fe84-4232-9090-ec2ecbdfac35" width="300">
-  <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/d42ce0f4-92a8-4500-bb7e-41174484d8c7" width="300">
-  <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/31449ca3-4e00-4803-b092-9ada2eb002c3" width="300">
 </p>
 <br>
 
