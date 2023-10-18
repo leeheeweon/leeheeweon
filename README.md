@@ -50,6 +50,8 @@
 
 <details>
 <summary><h2>🚀 프로젝트</h2></summary>
+
+  
 <!-- 한국해양교통안전공단 -->
 <table>
   <tr>
@@ -79,6 +81,37 @@
   <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/524058ec-97e3-42ad-9a9b-ac2d28046697" width="300">
 </p>
 <br>
+
+<!-- 더블로거 -->
+<table>
+  <tr>
+    <th width="120">프로젝트명</th>
+    <td>TheBlogger(더블로거) <a href="https://github.com/leeheeweon/leeheeweon/files/12913627/KOREA.MARITIME.TRANSPORTATION.SAFETY.AUTHORITY_20220407.pdf">개발문서 바로가기</a></td>
+  </tr>
+  <tr>
+    <th width="120">작업기간</th>
+    <td>2023.01.11~2023.03.14</td>
+  </tr>
+  <tr>
+    <th width="120">개발환경</th>
+    <td>Java11, 스프링부트2.7.6</td>
+  </tr>
+   <tr>
+    <th width="120">사용기술</th>
+    <td>Spring batch, Mybatis, Tymeleaf, Springboot valid, Selenium</td>
+  </tr>
+  <tr>
+  <th width="120">소개</th>
+  <td>가온아이를 중심으로 여러 회사들과 협업하여 진행한 프로젝트로서 한국해양교통안전공단이 10년간 사용하였던 파워빌더 프로그램을 자바, 스프링을 사용하여 재구성 하였다.</td>
+  </tr>
+</table>
+<p align="center">
+  <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/0e1538d5-0246-4fc4-a198-e93d15729f76" width="300">
+  <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/c4570471-fbd4-4121-bbfa-dbf611565db3" width="300">
+  <img src ="https://github.com/leeheeweon/leeheeweon/assets/81005061/2e828a2d-2417-48b5-9a7d-66c9fa8ba446" width="300">
+</p>
+<br>
+![IMG_2100](https://github.com/leeheeweon/leeheeweon/assets/81005061/2e828a2d-2417-48b5-9a7d-66c9fa8ba446)
 
 <!--청약 및 빌링 조회 프로그램-->
 <table>
