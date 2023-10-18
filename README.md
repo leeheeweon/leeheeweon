@@ -86,7 +86,7 @@
 <table>
   <tr>
     <th width="120">프로젝트명</th>
-    <td>TheBlogger(더블로거) <a href="https://github.com/leeheeweon/leeheeweon/files/12913627/KOREA.MARITIME.TRANSPORTATION.SAFETY.AUTHORITY_20220407.pdf">개발문서 바로가기</a></td>
+    <td>TheBlogger(더블로거)</td>
   </tr>
   <tr>
     <th width="120">작업기간</th>
