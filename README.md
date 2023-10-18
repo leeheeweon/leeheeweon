@@ -54,7 +54,7 @@
 <table>
   <tr>
     <th width="120">프로젝트명</th>
-    <td>TheBlogger(더블로거) <a href="https://subscheck.notion.site/TheBlogger-4406c521afbc4b42923ff89003e14ca4?pvs=4">개발문서 바로가기</a></td>
+    <td>TheBlogger(더블로거) <a href="https://subscheck.notion.site/TheBlogger-49b0c28aaaf046098a7ed235f0487d00?pvs=4">개발문서 바로가기</a></td>
   </tr>
   <tr>
     <th width="120">작업기간</th>
@@ -84,7 +84,7 @@
 <table>
   <tr>
     <th width="120">프로젝트명</th>
-    <td>한국해양교통안전공단 <a href="https://github.com/leeheeweon/leeheeweon/files/12913627/KOREA.MARITIME.TRANSPORTATION.SAFETY.AUTHORITY_20220407.pdf">개발문서 바로가기</a></td>
+    <td>한국해양교통안전공단 <a href="https://subscheck.notion.site/f92e00eecc1d48bb9c503838a2aa86dd?pvs=4">개발문서 바로가기</a></td>
   </tr>
   <tr>
     <th width="120">작업기간</th>
