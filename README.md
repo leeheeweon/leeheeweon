@@ -114,7 +114,7 @@
 <table>
   <tr>
     <th width="120">프로젝트명</th>
-    <td>SubsCheck  <a href="https://subscheck.notion.site/SubsCheck-fc47a10b84b8474086ed113dc128167b?pvs=4">개발문서 바로가기</a></td>
+    <td>SubsCheck  <a href="https://subscheck.notion.site/SubsCheck-c163dccd00ae474a9a5d78b7d61514a7?pvs=4">개발문서 바로가기</a></td>
   </tr>
    <tr>
     <th width="120">작업기간</th>
