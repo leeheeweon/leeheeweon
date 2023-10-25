@@ -46,6 +46,7 @@
   <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/962ebd6e-9067-490c-a203-08afd52a31df">자바 ORM 표준 JPA 프로그래밍 - 기본편</a></li>
   <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/77f95753-86b6-4554-8484-3f35e758223d">실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발</a></li>
   <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/33b68556-6c9a-4079-ac2e-29df34bde16c">실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화</a></li>
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/89f61755-4a6d-4e03-9e9d-c1f896419686">실전! 스프링 데이터 JPA</a></li>
 </ul>
 </details>
 
