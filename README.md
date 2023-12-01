@@ -14,7 +14,7 @@
 
 <h2>🤝 연락 방법</h2>
 <p>이메일: ggoddii@naver.com</p>
-<p>블로그: https://blog.naver.com/ggoddii</p>
+<p>블로그: https://leeheeweon.github.io/</p>
 
 
 <details>
