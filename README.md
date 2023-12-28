@@ -49,6 +49,7 @@
   <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/89f61755-4a6d-4e03-9e9d-c1f896419686">실전! 스프링 데이터 JPA</a></li>
   <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/56c2e079-0d9b-461a-9f1b-3353faf0fd32">실전! Querydsl</a></li>
   <li>김영한의 자바 입문 - 코드로 시작하는 자바 첫걸음</li>
+  <li><a href="https://github.com/leeheeweon/leeheeweon/assets/81005061/f4cd11bd-2efe-4e45-99a1-b411d080b54e">김영한의 실전 자바 - 기본편</a></li>
 </ul>
 </details>
 
